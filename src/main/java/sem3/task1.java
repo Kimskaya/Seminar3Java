@@ -24,8 +24,6 @@ public class task1 {
             }
         }
         System.out.println(list1);
-
-        // вывод среденего значения
         int sum = 0;
         for (int i = 0; i < list1.size(); i++){
             int num = list1.get(i);
